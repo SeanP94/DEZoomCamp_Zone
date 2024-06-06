@@ -1,0 +1,1 @@
+Folder for learning terraform, and for working towards the cert(Prob wont get cert but this is just prep so I can learn how to use it.)
